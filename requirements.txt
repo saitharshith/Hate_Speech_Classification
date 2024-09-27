@@ -1,0 +1,9 @@
+fasttext
+pandas
+nltk
+pyyaml
+matplotlib
+scikit-learn
+notebook
+-e .
+ 
